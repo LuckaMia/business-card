@@ -1,0 +1,26 @@
+body, html {
+    margin: 0;
+}
+
+.card {
+    margin: 50px auto;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: linear-gradient(#f5cac3, #f79392);
+    text-align: center;
+    color: #52796f;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* .card:hover {
+    transition: 1s;
+} */
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
+
